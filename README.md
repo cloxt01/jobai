@@ -104,11 +104,10 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Penulis
 
-- [Nama Anda](https://github.com/username)
+- [Nacho](https://github.com/cloxt01)
 
 ## Kontak
 
-Untuk pertanyaan lebih lanjut, hubungi [email@example.com](mailto:email@example.com).
 ```
 
 ### Cara Menggunakan:
