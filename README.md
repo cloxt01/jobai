@@ -106,20 +106,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 - [Nacho](https://github.com/cloxt01)
 
-## Kontak
-
-```
-
-### Cara Menggunakan:
-
-1. **Ganti Placeholder**: Sesuaikan placeholder berikut:
-   - `https://github.com/username/job-ai.php` dengan URL repository GitHub Anda.
-   - `root` dan `secret` dengan kredensial database Anda.
-   - `Nama Anda` dengan nama Anda.
-   - `email@example.com` dengan email Anda.
-
-2. **Salin dan Tempel**: Salin konten di atas dan tempel ke file `README.md` di repository GitHub Anda. 
-
-3. **Upload**: Commit dan push file `README.md` ke repository Anda. 
-
-Dokumen ini dirancang agar pengguna dapat dengan mudah menginstal, menjalankan, dan berkontribusi pada proyek Anda.
